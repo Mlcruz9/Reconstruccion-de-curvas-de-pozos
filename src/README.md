@@ -11,4 +11,4 @@ En el presente análisis abordaremos la posibilidad de reparar curvas
 presencia de derrumbes u otros factores que pueden alterar la respuesta 
 de dichos registros. 
 
-Evaluaremos dos pozos ("Well_1", "Well_3")
+Evaluaremos dos pozos ("Well_1", "Well_3").
