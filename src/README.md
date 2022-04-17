@@ -1,5 +1,5 @@
 Como sabemos, el ***machine learning*** tiene un sin fin de aplicaciones 
-y sirve para desarrollar soluciones óptimas a diversas diversas 
+y sirve para desarrollar soluciones óptimas a diversas 
 problemáticas.
 
 En el campo de la petrofísica tiene una utilidad considerable y cada día 
