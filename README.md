@@ -1,4 +1,4 @@
-Como sabemos, el machine learning tiene un sin fin de aplicaciones y sirve para desarrollar soluciones óptimas a diversas diversas problemáticas.
+Como sabemos, el machine learning tiene un sin fin de aplicaciones y sirve para desarrollar soluciones óptimas a diversas problemáticas.
 
 En el campo de la petrofísica tiene una utilidad considerable y cada día en aumento, aplicada al análisis de clusters para determinar facies sedimentarias, generación de curvas de pozos sintéticas, entre otros.
 
